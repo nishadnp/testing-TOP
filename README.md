@@ -1,4 +1,4 @@
-# TESTING-TOP
+# testing-TOP
 
 This repository contains solutions for The Odin Project’s Testing Practice exercise, focused on writing unit tests with Jest and practicing **Test Driven Development (TDD)**. It uses Node.js as the runtime environment for Jest. Babel is configured to enable ES Modules (`import/export`) compatibility with Jest.
 
