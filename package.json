@@ -1,7 +1,7 @@
 {
   "name": "testing-top",
   "version": "1.0.0",
-  "description": "",
+  "description": "JavaScript testing practice project using Jest and Test Driven Development (TDD).",
   "main": "index.js",
   "scripts": {
     "test": "jest --verbose",
@@ -15,9 +15,11 @@
     "javascript",
     "jest",
     "test",
-    "TDD"
+    "TDD",
+    "babel",
+    "node.js"
   ],
-  "author": "",
+  "author": "nishadnp",
   "license": "ISC",
   "type": "module",
   "bugs": {
